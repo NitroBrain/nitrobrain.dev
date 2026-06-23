@@ -26,7 +26,7 @@ const repos: IRepo[] = [
   },
   {
     name: 'NitroBrain Labs',
-    description: 'Hyprland-first developer OS',
+    description: 'Developer education platform for interactive learning, practice, and real-world coding experience.',
     repo_url: 'https://labs.nitrobrain.dev/dashboard',
   }
 ];
